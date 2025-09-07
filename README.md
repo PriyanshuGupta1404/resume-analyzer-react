@@ -1,4 +1,4 @@
-# AI Resume Analyzer (React Version)
+# AI Resume Analyzer
 This project is a sophisticated web application built with React, Vite, and Tailwind CSS that parses resume text, extracts key skills, and provides insightful analytics for career development. It helps users understand the strengths of a resume, predicts suitable job roles, and offers AI-powered recommendations and interview questions.
 
 ## ✨ Features
