@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# 🧑‍💻 AI Resume Analyzer
 This project is a sophisticated web application built with React, Vite, and Tailwind CSS that parses resume text, extracts key skills, and provides insightful analytics for career development. It helps users understand the strengths of a resume, predicts suitable job roles, and offers AI-powered recommendations and interview questions.
 
 ## ✨ Features
@@ -68,4 +68,8 @@ The application will be available at http://localhost:5173 (or the next availabl
 ## 🔮 Future Enhancements
 The current implementation uses placeholder data for the AI-powered features. The next step is to integrate a backend service that communicates with a generative AI API (like Google's Gemini) to provide real-time summaries and interview questions based on the resume content.
 
+## 📬 Contact
 
+- 🔗 GitHub: [@PriyanshuGupta1404](https://github.com/priyanshugupta1404)
+- 🧑‍💻 LinkedIn: [@PriyanshuGupta1404](https://linkedin.com/in/priyanshugupta0551)
+- 📩 Email: priyanshugupta1404@gmail.com
